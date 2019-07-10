@@ -958,7 +958,12 @@ ModelImporter:
     4300370: Fillet1_31
     4300372: Fillet1_32
     4300374: Face1_6
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: 4d01df38cb9e0074ca666bc61d4ace6d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

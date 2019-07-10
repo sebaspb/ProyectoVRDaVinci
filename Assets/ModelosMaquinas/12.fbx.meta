@@ -143,7 +143,12 @@ ModelImporter:
     4300044: Cut-Extrude19_2
     4300046: Boss-Extrude5
     4300048: Fillet1_11
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: d97f972785cebee47b8f32c82c22f5d5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
