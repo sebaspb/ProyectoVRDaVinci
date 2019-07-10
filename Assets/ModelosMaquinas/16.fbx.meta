@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 6cf7752c39f5fa44e87140c4b651318f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 07619E59-DA9E-4522-8CB3-DB822CE61F73
+    100002: 07E3EC88-06D5-4f5d-9ED7-8216110D48D5
+    100004: 0A0BA59D-4634-4990-9EAB-C91E8E2C1422
+    100006: 12426BA8-A5AB-412e-97C6-A76EA365105B
+    100008: //RootNode
+    100010: 19F0C3FA-24A0-4e93-AD35-361AFAFBCE2B
+    100012: 2A9B41BD-7BCC-499b-9F85-77DB6F904052
+    100014: 390C9FE6-9B04-4ca4-9FA2-966B3BC3621B
+    100016: 3D3004A6-7A96-483b-97DB-7829A24A32A3
+    100018: 41A36534-D5AC-4c54-A6B5-28307F268664
+    100020: 431A1AE7-A9D6-4177-9C12-FE5871368D17
+    100022: 51887E47-6D99-4e6e-9D4E-14C2BAFC932E
+    100024: 5F1BD7C3-7F8D-42ce-B01F-754EE83B0163
+    100026: 6BC830AE-13E3-4d6f-9FC1-02B8E6D32B6A
+    100028: 74F1F92F-2421-4b7b-A879-6AD438DF10E4
+    100030: 869CB58A-44A1-4e23-86A2-81471620CBFA
+    100032: 8D3D291D-5702-44c4-94F6-BF9CA05D1288
+    100034: 931B66A9-A9C4-4895-AC5A-F91E788CD6F2
+    100036: 9BCA0940-45B4-4fa8-B253-16394CE9F14E
+    100038: A651C60D-C8FE-4b6e-A592-6BDA91A0E37B
+    100040: A96F8E76-1790-4c28-B7D3-A571C50C4445
+    100042: AD28AA18-5BEB-482e-8ECA-75F28C877D2D
+    100044: BAD784F7-6888-4262-B6D0-B1537D4CDC3C
+    100046: Base DaVinci Catapult
+    100048: Base DaVinci Catapult_10
+    100050: Base DaVinci Catapult_11
+    100052: Base DaVinci Catapult_12
+    100054: Base DaVinci Catapult_13
+    100056: Base DaVinci Catapult_14
+    100058: Base DaVinci Catapult_15
+    100060: Base DaVinci Catapult_16
+    100062: Base DaVinci Catapult_17
+    100064: Base DaVinci Catapult_18
+    100066: Base DaVinci Catapult_19
+    100068: Base DaVinci Catapult_2
+    100070: Base DaVinci Catapult_20
+    100072: Base DaVinci Catapult_21
+    100074: Base DaVinci Catapult_22
+    100076: Base DaVinci Catapult_23
+    100078: Base DaVinci Catapult_24
+    100080: Base DaVinci Catapult_25
+    100082: Base DaVinci Catapult_26
+    100084: Base DaVinci Catapult_27
+    100086: Base DaVinci Catapult_28
+    100088: Base DaVinci Catapult_29
+    100090: Base DaVinci Catapult_3
+    100092: Base DaVinci Catapult_30
+    100094: Base DaVinci Catapult_31
+    100096: Base DaVinci Catapult_32
+    100098: Base DaVinci Catapult_33
+    100100: Base DaVinci Catapult_34
+    100102: Base DaVinci Catapult_35
+    100104: Base DaVinci Catapult_36
+    100106: Base DaVinci Catapult_37
+    100108: Base DaVinci Catapult_38
+    100110: Base DaVinci Catapult_39
+    100112: Base DaVinci Catapult_4
+    100114: Base DaVinci Catapult_40
+    100116: Base DaVinci Catapult_41
+    100118: Base DaVinci Catapult_42
+    100120: Base DaVinci Catapult_43
+    100122: Base DaVinci Catapult_44
+    100124: Base DaVinci Catapult_45
+    100126: Base DaVinci Catapult_46
+    100128: Base DaVinci Catapult_47
+    100130: Base DaVinci Catapult_48
+    100132: Base DaVinci Catapult_49
+    100134: Base DaVinci Catapult_5
+    100136: Base DaVinci Catapult_50
+    100138: Base DaVinci Catapult_51
+    100140: Base DaVinci Catapult_52
+    100142: Base DaVinci Catapult_53
+    100144: Base DaVinci Catapult_54
+    100146: Base DaVinci Catapult_55
+    100148: Base DaVinci Catapult_56
+    100150: Base DaVinci Catapult_57
+    100152: Base DaVinci Catapult_58
+    100154: Base DaVinci Catapult_59
+    100156: Base DaVinci Catapult_6
+    100158: Base DaVinci Catapult_60
+    100160: Base DaVinci Catapult_61
+    100162: Base DaVinci Catapult_7
+    100164: Base DaVinci Catapult_8
+    100166: Base DaVinci Catapult_9
+    100168: Capa 01
+    100170: Capa 02
+    100172: Capa 03
+    100174: Capa 04
+    100176: Capa 05
+    100178: CF4D7BAD-BF88-493a-AB32-A171B6C498E3
+    100180: E338E0D3-522B-4e91-B867-811486FF1B5B
+    100182: EB3A18AC-B1C9-40f8-88CD-AF6C060681DB
+    100184: FE994AFE-326D-436a-A773-2950A07C7399
+    100186: Layer0
+    100188: Predeterminada
+    400000: 07619E59-DA9E-4522-8CB3-DB822CE61F73
+    400002: 07E3EC88-06D5-4f5d-9ED7-8216110D48D5
+    400004: 0A0BA59D-4634-4990-9EAB-C91E8E2C1422
+    400006: 12426BA8-A5AB-412e-97C6-A76EA365105B
+    400008: //RootNode
+    400010: 19F0C3FA-24A0-4e93-AD35-361AFAFBCE2B
+    400012: 2A9B41BD-7BCC-499b-9F85-77DB6F904052
+    400014: 390C9FE6-9B04-4ca4-9FA2-966B3BC3621B
+    400016: 3D3004A6-7A96-483b-97DB-7829A24A32A3
+    400018: 41A36534-D5AC-4c54-A6B5-28307F268664
+    400020: 431A1AE7-A9D6-4177-9C12-FE5871368D17
+    400022: 51887E47-6D99-4e6e-9D4E-14C2BAFC932E
+    400024: 5F1BD7C3-7F8D-42ce-B01F-754EE83B0163
+    400026: 6BC830AE-13E3-4d6f-9FC1-02B8E6D32B6A
+    400028: 74F1F92F-2421-4b7b-A879-6AD438DF10E4
+    400030: 869CB58A-44A1-4e23-86A2-81471620CBFA
+    400032: 8D3D291D-5702-44c4-94F6-BF9CA05D1288
+    400034: 931B66A9-A9C4-4895-AC5A-F91E788CD6F2
+    400036: 9BCA0940-45B4-4fa8-B253-16394CE9F14E
+    400038: A651C60D-C8FE-4b6e-A592-6BDA91A0E37B
+    400040: A96F8E76-1790-4c28-B7D3-A571C50C4445
+    400042: AD28AA18-5BEB-482e-8ECA-75F28C877D2D
+    400044: BAD784F7-6888-4262-B6D0-B1537D4CDC3C
+    400046: Base DaVinci Catapult
+    400048: Base DaVinci Catapult_10
+    400050: Base DaVinci Catapult_11
+    400052: Base DaVinci Catapult_12
+    400054: Base DaVinci Catapult_13
+    400056: Base DaVinci Catapult_14
+    400058: Base DaVinci Catapult_15
+    400060: Base DaVinci Catapult_16
+    400062: Base DaVinci Catapult_17
+    400064: Base DaVinci Catapult_18
+    400066: Base DaVinci Catapult_19
+    400068: Base DaVinci Catapult_2
+    400070: Base DaVinci Catapult_20
+    400072: Base DaVinci Catapult_21
+    400074: Base DaVinci Catapult_22
+    400076: Base DaVinci Catapult_23
+    400078: Base DaVinci Catapult_24
+    400080: Base DaVinci Catapult_25
+    400082: Base DaVinci Catapult_26
+    400084: Base DaVinci Catapult_27
+    400086: Base DaVinci Catapult_28
+    400088: Base DaVinci Catapult_29
+    400090: Base DaVinci Catapult_3
+    400092: Base DaVinci Catapult_30
+    400094: Base DaVinci Catapult_31
+    400096: Base DaVinci Catapult_32
+    400098: Base DaVinci Catapult_33
+    400100: Base DaVinci Catapult_34
+    400102: Base DaVinci Catapult_35
+    400104: Base DaVinci Catapult_36
+    400106: Base DaVinci Catapult_37
+    400108: Base DaVinci Catapult_38
+    400110: Base DaVinci Catapult_39
+    400112: Base DaVinci Catapult_4
+    400114: Base DaVinci Catapult_40
+    400116: Base DaVinci Catapult_41
+    400118: Base DaVinci Catapult_42
+    400120: Base DaVinci Catapult_43
+    400122: Base DaVinci Catapult_44
+    400124: Base DaVinci Catapult_45
+    400126: Base DaVinci Catapult_46
+    400128: Base DaVinci Catapult_47
+    400130: Base DaVinci Catapult_48
+    400132: Base DaVinci Catapult_49
+    400134: Base DaVinci Catapult_5
+    400136: Base DaVinci Catapult_50
+    400138: Base DaVinci Catapult_51
+    400140: Base DaVinci Catapult_52
+    400142: Base DaVinci Catapult_53
+    400144: Base DaVinci Catapult_54
+    400146: Base DaVinci Catapult_55
+    400148: Base DaVinci Catapult_56
+    400150: Base DaVinci Catapult_57
+    400152: Base DaVinci Catapult_58
+    400154: Base DaVinci Catapult_59
+    400156: Base DaVinci Catapult_6
+    400158: Base DaVinci Catapult_60
+    400160: Base DaVinci Catapult_61
+    400162: Base DaVinci Catapult_7
+    400164: Base DaVinci Catapult_8
+    400166: Base DaVinci Catapult_9
+    400168: Capa 01
+    400170: Capa 02
+    400172: Capa 03
+    400174: Capa 04
+    400176: Capa 05
+    400178: CF4D7BAD-BF88-493a-AB32-A171B6C498E3
+    400180: E338E0D3-522B-4e91-B867-811486FF1B5B
+    400182: EB3A18AC-B1C9-40f8-88CD-AF6C060681DB
+    400184: FE994AFE-326D-436a-A773-2950A07C7399
+    400186: Layer0
+    400188: Predeterminada
+    2100000: Material_1
+    2300000: 07619E59-DA9E-4522-8CB3-DB822CE61F73
+    2300002: 07E3EC88-06D5-4f5d-9ED7-8216110D48D5
+    2300004: 0A0BA59D-4634-4990-9EAB-C91E8E2C1422
+    2300006: 12426BA8-A5AB-412e-97C6-A76EA365105B
+    2300008: 19F0C3FA-24A0-4e93-AD35-361AFAFBCE2B
+    2300010: 2A9B41BD-7BCC-499b-9F85-77DB6F904052
+    2300012: 390C9FE6-9B04-4ca4-9FA2-966B3BC3621B
+    2300014: 3D3004A6-7A96-483b-97DB-7829A24A32A3
+    2300016: 41A36534-D5AC-4c54-A6B5-28307F268664
+    2300018: 431A1AE7-A9D6-4177-9C12-FE5871368D17
+    2300020: 51887E47-6D99-4e6e-9D4E-14C2BAFC932E
+    2300022: 5F1BD7C3-7F8D-42ce-B01F-754EE83B0163
+    2300024: 6BC830AE-13E3-4d6f-9FC1-02B8E6D32B6A
+    2300026: 74F1F92F-2421-4b7b-A879-6AD438DF10E4
+    2300028: 869CB58A-44A1-4e23-86A2-81471620CBFA
+    2300030: 8D3D291D-5702-44c4-94F6-BF9CA05D1288
+    2300032: 931B66A9-A9C4-4895-AC5A-F91E788CD6F2
+    2300034: 9BCA0940-45B4-4fa8-B253-16394CE9F14E
+    2300036: A651C60D-C8FE-4b6e-A592-6BDA91A0E37B
+    2300038: A96F8E76-1790-4c28-B7D3-A571C50C4445
+    2300040: AD28AA18-5BEB-482e-8ECA-75F28C877D2D
+    2300042: BAD784F7-6888-4262-B6D0-B1537D4CDC3C
+    2300044: Base DaVinci Catapult_10
+    2300046: Base DaVinci Catapult_11
+    2300048: Base DaVinci Catapult_12
+    2300050: Base DaVinci Catapult_13
+    2300052: Base DaVinci Catapult_14
+    2300054: Base DaVinci Catapult_15
+    2300056: Base DaVinci Catapult_16
+    2300058: Base DaVinci Catapult_17
+    2300060: Base DaVinci Catapult_18
+    2300062: Base DaVinci Catapult_19
+    2300064: Base DaVinci Catapult_2
+    2300066: Base DaVinci Catapult_20
+    2300068: Base DaVinci Catapult_21
+    2300070: Base DaVinci Catapult_22
+    2300072: Base DaVinci Catapult_23
+    2300074: Base DaVinci Catapult_24
+    2300076: Base DaVinci Catapult_25
+    2300078: Base DaVinci Catapult_26
+    2300080: Base DaVinci Catapult_27
+    2300082: Base DaVinci Catapult_28
+    2300084: Base DaVinci Catapult_29
+    2300086: Base DaVinci Catapult_3
+    2300088: Base DaVinci Catapult_30
+    2300090: Base DaVinci Catapult_31
+    2300092: Base DaVinci Catapult_32
+    2300094: Base DaVinci Catapult_33
+    2300096: Base DaVinci Catapult_34
+    2300098: Base DaVinci Catapult_35
+    2300100: Base DaVinci Catapult_36
+    2300102: Base DaVinci Catapult_37
+    2300104: Base DaVinci Catapult_38
+    2300106: Base DaVinci Catapult_39
+    2300108: Base DaVinci Catapult_4
+    2300110: Base DaVinci Catapult_40
+    2300112: Base DaVinci Catapult_41
+    2300114: Base DaVinci Catapult_42
+    2300116: Base DaVinci Catapult_43
+    2300118: Base DaVinci Catapult_44
+    2300120: Base DaVinci Catapult_45
+    2300122: Base DaVinci Catapult_46
+    2300124: Base DaVinci Catapult_47
+    2300126: Base DaVinci Catapult_48
+    2300128: Base DaVinci Catapult_49
+    2300130: Base DaVinci Catapult_5
+    2300132: Base DaVinci Catapult_50
+    2300134: Base DaVinci Catapult_51
+    2300136: Base DaVinci Catapult_52
+    2300138: Base DaVinci Catapult_53
+    2300140: Base DaVinci Catapult_54
+    2300142: Base DaVinci Catapult_55
+    2300144: Base DaVinci Catapult_56
+    2300146: Base DaVinci Catapult_57
+    2300148: Base DaVinci Catapult_58
+    2300150: Base DaVinci Catapult_59
+    2300152: Base DaVinci Catapult_6
+    2300154: Base DaVinci Catapult_60
+    2300156: Base DaVinci Catapult_61
+    2300158: Base DaVinci Catapult_7
+    2300160: Base DaVinci Catapult_8
+    2300162: Base DaVinci Catapult_9
+    2300164: CF4D7BAD-BF88-493a-AB32-A171B6C498E3
+    2300166: E338E0D3-522B-4e91-B867-811486FF1B5B
+    2300168: EB3A18AC-B1C9-40f8-88CD-AF6C060681DB
+    2300170: FE994AFE-326D-436a-A773-2950A07C7399
+    3300000: 07619E59-DA9E-4522-8CB3-DB822CE61F73
+    3300002: 07E3EC88-06D5-4f5d-9ED7-8216110D48D5
+    3300004: 0A0BA59D-4634-4990-9EAB-C91E8E2C1422
+    3300006: 12426BA8-A5AB-412e-97C6-A76EA365105B
+    3300008: 19F0C3FA-24A0-4e93-AD35-361AFAFBCE2B
+    3300010: 2A9B41BD-7BCC-499b-9F85-77DB6F904052
+    3300012: 390C9FE6-9B04-4ca4-9FA2-966B3BC3621B
+    3300014: 3D3004A6-7A96-483b-97DB-7829A24A32A3
+    3300016: 41A36534-D5AC-4c54-A6B5-28307F268664
+    3300018: 431A1AE7-A9D6-4177-9C12-FE5871368D17
+    3300020: 51887E47-6D99-4e6e-9D4E-14C2BAFC932E
+    3300022: 5F1BD7C3-7F8D-42ce-B01F-754EE83B0163
+    3300024: 6BC830AE-13E3-4d6f-9FC1-02B8E6D32B6A
+    3300026: 74F1F92F-2421-4b7b-A879-6AD438DF10E4
+    3300028: 869CB58A-44A1-4e23-86A2-81471620CBFA
+    3300030: 8D3D291D-5702-44c4-94F6-BF9CA05D1288
+    3300032: 931B66A9-A9C4-4895-AC5A-F91E788CD6F2
+    3300034: 9BCA0940-45B4-4fa8-B253-16394CE9F14E
+    3300036: A651C60D-C8FE-4b6e-A592-6BDA91A0E37B
+    3300038: A96F8E76-1790-4c28-B7D3-A571C50C4445
+    3300040: AD28AA18-5BEB-482e-8ECA-75F28C877D2D
+    3300042: BAD784F7-6888-4262-B6D0-B1537D4CDC3C
+    3300044: Base DaVinci Catapult_10
+    3300046: Base DaVinci Catapult_11
+    3300048: Base DaVinci Catapult_12
+    3300050: Base DaVinci Catapult_13
+    3300052: Base DaVinci Catapult_14
+    3300054: Base DaVinci Catapult_15
+    3300056: Base DaVinci Catapult_16
+    3300058: Base DaVinci Catapult_17
+    3300060: Base DaVinci Catapult_18
+    3300062: Base DaVinci Catapult_19
+    3300064: Base DaVinci Catapult_2
+    3300066: Base DaVinci Catapult_20
+    3300068: Base DaVinci Catapult_21
+    3300070: Base DaVinci Catapult_22
+    3300072: Base DaVinci Catapult_23
+    3300074: Base DaVinci Catapult_24
+    3300076: Base DaVinci Catapult_25
+    3300078: Base DaVinci Catapult_26
+    3300080: Base DaVinci Catapult_27
+    3300082: Base DaVinci Catapult_28
+    3300084: Base DaVinci Catapult_29
+    3300086: Base DaVinci Catapult_3
+    3300088: Base DaVinci Catapult_30
+    3300090: Base DaVinci Catapult_31
+    3300092: Base DaVinci Catapult_32
+    3300094: Base DaVinci Catapult_33
+    3300096: Base DaVinci Catapult_34
+    3300098: Base DaVinci Catapult_35
+    3300100: Base DaVinci Catapult_36
+    3300102: Base DaVinci Catapult_37
+    3300104: Base DaVinci Catapult_38
+    3300106: Base DaVinci Catapult_39
+    3300108: Base DaVinci Catapult_4
+    3300110: Base DaVinci Catapult_40
+    3300112: Base DaVinci Catapult_41
+    3300114: Base DaVinci Catapult_42
+    3300116: Base DaVinci Catapult_43
+    3300118: Base DaVinci Catapult_44
+    3300120: Base DaVinci Catapult_45
+    3300122: Base DaVinci Catapult_46
+    3300124: Base DaVinci Catapult_47
+    3300126: Base DaVinci Catapult_48
+    3300128: Base DaVinci Catapult_49
+    3300130: Base DaVinci Catapult_5
+    3300132: Base DaVinci Catapult_50
+    3300134: Base DaVinci Catapult_51
+    3300136: Base DaVinci Catapult_52
+    3300138: Base DaVinci Catapult_53
+    3300140: Base DaVinci Catapult_54
+    3300142: Base DaVinci Catapult_55
+    3300144: Base DaVinci Catapult_56
+    3300146: Base DaVinci Catapult_57
+    3300148: Base DaVinci Catapult_58
+    3300150: Base DaVinci Catapult_59
+    3300152: Base DaVinci Catapult_6
+    3300154: Base DaVinci Catapult_60
+    3300156: Base DaVinci Catapult_61
+    3300158: Base DaVinci Catapult_7
+    3300160: Base DaVinci Catapult_8
+    3300162: Base DaVinci Catapult_9
+    3300164: CF4D7BAD-BF88-493a-AB32-A171B6C498E3
+    3300166: E338E0D3-522B-4e91-B867-811486FF1B5B
+    3300168: EB3A18AC-B1C9-40f8-88CD-AF6C060681DB
+    3300170: FE994AFE-326D-436a-A773-2950A07C7399
+    4300000: 931B66A9-A9C4-4895-AC5A-F91E788CD6F2
+    4300002: 19F0C3FA-24A0-4e93-AD35-361AFAFBCE2B
+    4300004: 390C9FE6-9B04-4ca4-9FA2-966B3BC3621B
+    4300006: 0A0BA59D-4634-4990-9EAB-C91E8E2C1422
+    4300008: A651C60D-C8FE-4b6e-A592-6BDA91A0E37B
+    4300010: 07619E59-DA9E-4522-8CB3-DB822CE61F73
+    4300012: Base DaVinci Catapult_2
+    4300014: CF4D7BAD-BF88-493a-AB32-A171B6C498E3
+    4300016: 2A9B41BD-7BCC-499b-9F85-77DB6F904052
+    4300018: EB3A18AC-B1C9-40f8-88CD-AF6C060681DB
+    4300020: E338E0D3-522B-4e91-B867-811486FF1B5B
+    4300022: 431A1AE7-A9D6-4177-9C12-FE5871368D17
+    4300024: BAD784F7-6888-4262-B6D0-B1537D4CDC3C
+    4300026: 51887E47-6D99-4e6e-9D4E-14C2BAFC932E
+    4300028: 74F1F92F-2421-4b7b-A879-6AD438DF10E4
+    4300030: 12426BA8-A5AB-412e-97C6-A76EA365105B
+    4300032: 6BC830AE-13E3-4d6f-9FC1-02B8E6D32B6A
+    4300034: 9BCA0940-45B4-4fa8-B253-16394CE9F14E
+    4300036: 3D3004A6-7A96-483b-97DB-7829A24A32A3
+    4300038: 869CB58A-44A1-4e23-86A2-81471620CBFA
+    4300040: 07E3EC88-06D5-4f5d-9ED7-8216110D48D5
+    4300042: 8D3D291D-5702-44c4-94F6-BF9CA05D1288
+    4300044: FE994AFE-326D-436a-A773-2950A07C7399
+    4300046: Base DaVinci Catapult_3
+    4300048: 41A36534-D5AC-4c54-A6B5-28307F268664
+    4300050: Base DaVinci Catapult_4
+    4300052: AD28AA18-5BEB-482e-8ECA-75F28C877D2D
+    4300054: 5F1BD7C3-7F8D-42ce-B01F-754EE83B0163
+    4300056: Base DaVinci Catapult_5
+    4300058: Base DaVinci Catapult_6
+    4300060: Base DaVinci Catapult_7
+    4300062: Base DaVinci Catapult_8
+    4300064: Base DaVinci Catapult_9
+    4300066: Base DaVinci Catapult_10
+    4300068: Base DaVinci Catapult_11
+    4300070: Base DaVinci Catapult_12
+    4300072: Base DaVinci Catapult_13
+    4300074: Base DaVinci Catapult_14
+    4300076: Base DaVinci Catapult_15
+    4300078: Base DaVinci Catapult_16
+    4300080: Base DaVinci Catapult_17
+    4300082: Base DaVinci Catapult_18
+    4300084: Base DaVinci Catapult_19
+    4300086: Base DaVinci Catapult_20
+    4300088: Base DaVinci Catapult_21
+    4300090: Base DaVinci Catapult_22
+    4300092: Base DaVinci Catapult_23
+    4300094: Base DaVinci Catapult_24
+    4300096: Base DaVinci Catapult_25
+    4300098: Base DaVinci Catapult_26
+    4300100: Base DaVinci Catapult_27
+    4300102: A96F8E76-1790-4c28-B7D3-A571C50C4445
+    4300104: Base DaVinci Catapult_28
+    4300106: Base DaVinci Catapult_29
+    4300108: Base DaVinci Catapult_30
+    4300110: Base DaVinci Catapult_31
+    4300112: Base DaVinci Catapult_32
+    4300114: Base DaVinci Catapult_33
+    4300116: Base DaVinci Catapult_34
+    4300118: Base DaVinci Catapult_35
+    4300120: Base DaVinci Catapult_36
+    4300122: Base DaVinci Catapult_37
+    4300124: Base DaVinci Catapult_38
+    4300126: Base DaVinci Catapult_39
+    4300128: Base DaVinci Catapult_40
+    4300130: Base DaVinci Catapult_41
+    4300132: Base DaVinci Catapult_42
+    4300134: Base DaVinci Catapult_43
+    4300136: Base DaVinci Catapult_44
+    4300138: Base DaVinci Catapult_45
+    4300140: Base DaVinci Catapult_46
+    4300142: Base DaVinci Catapult_47
+    4300144: Base DaVinci Catapult_48
+    4300146: Base DaVinci Catapult_49
+    4300148: Base DaVinci Catapult_50
+    4300150: Base DaVinci Catapult_51
+    4300152: Base DaVinci Catapult_52
+    4300154: Base DaVinci Catapult_53
+    4300156: Base DaVinci Catapult_54
+    4300158: Base DaVinci Catapult_55
+    4300160: Base DaVinci Catapult_56
+    4300162: Base DaVinci Catapult_57
+    4300164: Base DaVinci Catapult_58
+    4300166: Base DaVinci Catapult_59
+    4300168: Base DaVinci Catapult_60
+    4300170: Base DaVinci Catapult_61
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
