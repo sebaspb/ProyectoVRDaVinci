@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 3d9ed5d7a831283419e32305e1b917a8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: <Gear_L>-<Chamfer7>
+    100004: <Ratchet_L>-<Move Face1>
+    100006: Boss-Extrude1
+    100008: Boss-Extrude1_10
+    100010: Boss-Extrude1_11
+    100012: Boss-Extrude1_12
+    100014: Boss-Extrude1_13
+    100016: Boss-Extrude1_14
+    100018: Boss-Extrude1_15
+    100020: Boss-Extrude1_16
+    100022: Boss-Extrude1_2
+    100024: Boss-Extrude1_3
+    100026: Boss-Extrude1_4
+    100028: Boss-Extrude1_5
+    100030: Boss-Extrude1_6
+    100032: Boss-Extrude1_7
+    100034: Boss-Extrude1_8
+    100036: Boss-Extrude1_9
+    100038: Boss-Extrude2
+    100040: Capa 01
+    100042: Capa 02
+    100044: Capa 03
+    100046: Capa 04
+    100048: Capa 05
+    100050: Chamfer1
+    100052: Chamfer1_2
+    100054: Chamfer7
+    100056: Cut-Extrude1
+    100058: Cut-Extrude2
+    100060: Cut-Extrude2_2
+    100062: Fillet1
+    100064: Mirror1
+    100066: Mirror1_2
+    100068: Move Face1
+    100070: Move Face1_2
+    100072: Move Face4
+    100074: Predeterminada
+    400000: //RootNode
+    400002: <Gear_L>-<Chamfer7>
+    400004: <Ratchet_L>-<Move Face1>
+    400006: Boss-Extrude1
+    400008: Boss-Extrude1_10
+    400010: Boss-Extrude1_11
+    400012: Boss-Extrude1_12
+    400014: Boss-Extrude1_13
+    400016: Boss-Extrude1_14
+    400018: Boss-Extrude1_15
+    400020: Boss-Extrude1_16
+    400022: Boss-Extrude1_2
+    400024: Boss-Extrude1_3
+    400026: Boss-Extrude1_4
+    400028: Boss-Extrude1_5
+    400030: Boss-Extrude1_6
+    400032: Boss-Extrude1_7
+    400034: Boss-Extrude1_8
+    400036: Boss-Extrude1_9
+    400038: Boss-Extrude2
+    400040: Capa 01
+    400042: Capa 02
+    400044: Capa 03
+    400046: Capa 04
+    400048: Capa 05
+    400050: Chamfer1
+    400052: Chamfer1_2
+    400054: Chamfer7
+    400056: Cut-Extrude1
+    400058: Cut-Extrude2
+    400060: Cut-Extrude2_2
+    400062: Fillet1
+    400064: Mirror1
+    400066: Mirror1_2
+    400068: Move Face1
+    400070: Move Face1_2
+    400072: Move Face4
+    400074: Predeterminada
+    2100000: Material_1
+    2300000: <Gear_L>-<Chamfer7>
+    2300002: <Ratchet_L>-<Move Face1>
+    2300004: Boss-Extrude1
+    2300006: Boss-Extrude1_10
+    2300008: Boss-Extrude1_11
+    2300010: Boss-Extrude1_12
+    2300012: Boss-Extrude1_13
+    2300014: Boss-Extrude1_14
+    2300016: Boss-Extrude1_15
+    2300018: Boss-Extrude1_16
+    2300020: Boss-Extrude1_2
+    2300022: Boss-Extrude1_3
+    2300024: Boss-Extrude1_4
+    2300026: Boss-Extrude1_5
+    2300028: Boss-Extrude1_6
+    2300030: Boss-Extrude1_7
+    2300032: Boss-Extrude1_8
+    2300034: Boss-Extrude1_9
+    2300036: Boss-Extrude2
+    2300038: Chamfer1
+    2300040: Chamfer1_2
+    2300042: Chamfer7
+    2300044: Cut-Extrude1
+    2300046: Cut-Extrude2
+    2300048: Cut-Extrude2_2
+    2300050: Fillet1
+    2300052: Mirror1
+    2300054: Mirror1_2
+    2300056: Move Face1
+    2300058: Move Face1_2
+    2300060: Move Face4
+    3300000: <Gear_L>-<Chamfer7>
+    3300002: <Ratchet_L>-<Move Face1>
+    3300004: Boss-Extrude1
+    3300006: Boss-Extrude1_10
+    3300008: Boss-Extrude1_11
+    3300010: Boss-Extrude1_12
+    3300012: Boss-Extrude1_13
+    3300014: Boss-Extrude1_14
+    3300016: Boss-Extrude1_15
+    3300018: Boss-Extrude1_16
+    3300020: Boss-Extrude1_2
+    3300022: Boss-Extrude1_3
+    3300024: Boss-Extrude1_4
+    3300026: Boss-Extrude1_5
+    3300028: Boss-Extrude1_6
+    3300030: Boss-Extrude1_7
+    3300032: Boss-Extrude1_8
+    3300034: Boss-Extrude1_9
+    3300036: Boss-Extrude2
+    3300038: Chamfer1
+    3300040: Chamfer1_2
+    3300042: Chamfer7
+    3300044: Cut-Extrude1
+    3300046: Cut-Extrude2
+    3300048: Cut-Extrude2_2
+    3300050: Fillet1
+    3300052: Mirror1
+    3300054: Mirror1_2
+    3300056: Move Face1
+    3300058: Move Face1_2
+    3300060: Move Face4
+    4300000: Boss-Extrude1
+    4300002: Boss-Extrude1_2
+    4300004: Cut-Extrude1
+    4300006: Boss-Extrude1_3
+    4300008: Boss-Extrude1_4
+    4300010: <Gear_L>-<Chamfer7>
+    4300012: Mirror1
+    4300014: Boss-Extrude1_5
+    4300016: Cut-Extrude2
+    4300018: Boss-Extrude2
+    4300020: Boss-Extrude1_6
+    4300022: Chamfer1
+    4300024: Boss-Extrude1_7
+    4300026: Boss-Extrude1_8
+    4300028: Cut-Extrude2_2
+    4300030: Boss-Extrude1_9
+    4300032: Chamfer1_2
+    4300034: Boss-Extrude1_10
+    4300036: Boss-Extrude1_11
+    4300038: <Ratchet_L>-<Move Face1>
+    4300040: Boss-Extrude1_12
+    4300042: Move Face1
+    4300044: Mirror1_2
+    4300046: Boss-Extrude1_13
+    4300048: Move Face1_2
+    4300050: Boss-Extrude1_14
+    4300052: Fillet1
+    4300054: Move Face4
+    4300056: Boss-Extrude1_15
+    4300058: Boss-Extrude1_16
+    4300060: Chamfer7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

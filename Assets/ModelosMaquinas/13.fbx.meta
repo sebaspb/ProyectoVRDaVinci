@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: cb339e78fab41ee408a0571b7bbc133c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boss-Extrude25-1-solid1
+    100004: Capa 01
+    100006: Capa 02
+    100008: Capa 03
+    100010: Capa 04
+    100012: Capa 05
+    100014: Cut-Extrude16-1-solid1
+    100016: Cut-Extrude17[1]-1-solid1
+    100018: Fillet19-1-solid1
+    100020: Fillet20-1-solid1
+    100022: Fillet21-1-solid1
+    100024: Fillet22-1-solid1
+    100026: Fillet28-1-solid1
+    100028: Fillet30-1-solid1
+    100030: Fillet41-1-solid1
+    100032: Fillet42-1-solid1
+    100034: LPattern1[1]-1-solid1
+    100036: LPattern1[2]-1-solid1
+    100038: Metric - Spur gear 0.9M 11T 20PA 6FW ---S11N75H50L5N-1-solid1
+    100040: Mirror3[1]-1-solid1
+    100042: Mirror3[2]-1-solid1
+    100044: Mirror3[3]-1-solid1
+    100046: Mirror4[1]-1-solid1
+    100048: Mirror4[2]-1-solid1
+    100050: Mirror4[3]-1-solid1
+    100052: Mirror5-1-solid1
+    100054: Predeterminada
+    100056: Scale1-1-solid1
+    100058: Scale2-1-solid1
+    100060: Thread1-1-solid1
+    400000: //RootNode
+    400002: Boss-Extrude25-1-solid1
+    400004: Capa 01
+    400006: Capa 02
+    400008: Capa 03
+    400010: Capa 04
+    400012: Capa 05
+    400014: Cut-Extrude16-1-solid1
+    400016: Cut-Extrude17[1]-1-solid1
+    400018: Fillet19-1-solid1
+    400020: Fillet20-1-solid1
+    400022: Fillet21-1-solid1
+    400024: Fillet22-1-solid1
+    400026: Fillet28-1-solid1
+    400028: Fillet30-1-solid1
+    400030: Fillet41-1-solid1
+    400032: Fillet42-1-solid1
+    400034: LPattern1[1]-1-solid1
+    400036: LPattern1[2]-1-solid1
+    400038: Metric - Spur gear 0.9M 11T 20PA 6FW ---S11N75H50L5N-1-solid1
+    400040: Mirror3[1]-1-solid1
+    400042: Mirror3[2]-1-solid1
+    400044: Mirror3[3]-1-solid1
+    400046: Mirror4[1]-1-solid1
+    400048: Mirror4[2]-1-solid1
+    400050: Mirror4[3]-1-solid1
+    400052: Mirror5-1-solid1
+    400054: Predeterminada
+    400056: Scale1-1-solid1
+    400058: Scale2-1-solid1
+    400060: Thread1-1-solid1
+    2100000: Material_1
+    2300000: Boss-Extrude25-1-solid1
+    2300002: Cut-Extrude16-1-solid1
+    2300004: Cut-Extrude17[1]-1-solid1
+    2300006: Fillet19-1-solid1
+    2300008: Fillet20-1-solid1
+    2300010: Fillet21-1-solid1
+    2300012: Fillet22-1-solid1
+    2300014: Fillet28-1-solid1
+    2300016: Fillet30-1-solid1
+    2300018: Fillet41-1-solid1
+    2300020: Fillet42-1-solid1
+    2300022: LPattern1[1]-1-solid1
+    2300024: LPattern1[2]-1-solid1
+    2300026: Metric - Spur gear 0.9M 11T 20PA 6FW ---S11N75H50L5N-1-solid1
+    2300028: Mirror3[1]-1-solid1
+    2300030: Mirror3[2]-1-solid1
+    2300032: Mirror3[3]-1-solid1
+    2300034: Mirror4[1]-1-solid1
+    2300036: Mirror4[2]-1-solid1
+    2300038: Mirror4[3]-1-solid1
+    2300040: Mirror5-1-solid1
+    2300042: Scale1-1-solid1
+    2300044: Scale2-1-solid1
+    2300046: Thread1-1-solid1
+    3300000: Boss-Extrude25-1-solid1
+    3300002: Cut-Extrude16-1-solid1
+    3300004: Cut-Extrude17[1]-1-solid1
+    3300006: Fillet19-1-solid1
+    3300008: Fillet20-1-solid1
+    3300010: Fillet21-1-solid1
+    3300012: Fillet22-1-solid1
+    3300014: Fillet28-1-solid1
+    3300016: Fillet30-1-solid1
+    3300018: Fillet41-1-solid1
+    3300020: Fillet42-1-solid1
+    3300022: LPattern1[1]-1-solid1
+    3300024: LPattern1[2]-1-solid1
+    3300026: Metric - Spur gear 0.9M 11T 20PA 6FW ---S11N75H50L5N-1-solid1
+    3300028: Mirror3[1]-1-solid1
+    3300030: Mirror3[2]-1-solid1
+    3300032: Mirror3[3]-1-solid1
+    3300034: Mirror4[1]-1-solid1
+    3300036: Mirror4[2]-1-solid1
+    3300038: Mirror4[3]-1-solid1
+    3300040: Mirror5-1-solid1
+    3300042: Scale1-1-solid1
+    3300044: Scale2-1-solid1
+    3300046: Thread1-1-solid1
+    4300000: Fillet42-1-solid1
+    4300002: Cut-Extrude17[1]-1-solid1
+    4300004: Mirror3[1]-1-solid1
+    4300006: Mirror3[2]-1-solid1
+    4300008: Mirror5-1-solid1
+    4300010: Fillet28-1-solid1
+    4300012: Mirror3[3]-1-solid1
+    4300014: Metric - Spur gear 0.9M 11T 20PA 6FW ---S11N75H50L5N-1-solid1
+    4300016: Fillet19-1-solid1
+    4300018: Mirror4[3]-1-solid1
+    4300020: Fillet41-1-solid1
+    4300022: Mirror4[1]-1-solid1
+    4300024: Fillet21-1-solid1
+    4300026: Boss-Extrude25-1-solid1
+    4300028: LPattern1[2]-1-solid1
+    4300030: LPattern1[1]-1-solid1
+    4300032: Fillet30-1-solid1
+    4300034: Scale1-1-solid1
+    4300036: Thread1-1-solid1
+    4300038: Cut-Extrude16-1-solid1
+    4300040: Scale2-1-solid1
+    4300042: Fillet22-1-solid1
+    4300044: Mirror4[2]-1-solid1
+    4300046: Fillet20-1-solid1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

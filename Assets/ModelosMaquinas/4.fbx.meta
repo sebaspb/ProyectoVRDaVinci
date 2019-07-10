@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: be4e756ef8492a841b0180d251b7943a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boss-Extrude3
+    100004: Boss-Extrude3_2
+    100006: Capa 01
+    100008: Capa 02
+    100010: Capa 03
+    100012: Capa 04
+    100014: Capa 05
+    100016: Cut-Extrude1
+    100018: Cut-Extrude4
+    100020: Cut-Extrude4_2
+    100022: Cut-Extrude5
+    100024: Fillet3
+    100026: Fillet4
+    100028: Keyway2
+    100030: Keyway2_2
+    100032: Keyway2_3
+    100034: Predeterminada
+    100036: Wrap1
+    400000: //RootNode
+    400002: Boss-Extrude3
+    400004: Boss-Extrude3_2
+    400006: Capa 01
+    400008: Capa 02
+    400010: Capa 03
+    400012: Capa 04
+    400014: Capa 05
+    400016: Cut-Extrude1
+    400018: Cut-Extrude4
+    400020: Cut-Extrude4_2
+    400022: Cut-Extrude5
+    400024: Fillet3
+    400026: Fillet4
+    400028: Keyway2
+    400030: Keyway2_2
+    400032: Keyway2_3
+    400034: Predeterminada
+    400036: Wrap1
+    2100000: Material_1
+    2300000: Boss-Extrude3
+    2300002: Boss-Extrude3_2
+    2300004: Cut-Extrude1
+    2300006: Cut-Extrude4
+    2300008: Cut-Extrude4_2
+    2300010: Cut-Extrude5
+    2300012: Fillet3
+    2300014: Fillet4
+    2300016: Keyway2
+    2300018: Keyway2_2
+    2300020: Keyway2_3
+    2300022: Wrap1
+    3300000: Boss-Extrude3
+    3300002: Boss-Extrude3_2
+    3300004: Cut-Extrude1
+    3300006: Cut-Extrude4
+    3300008: Cut-Extrude4_2
+    3300010: Cut-Extrude5
+    3300012: Fillet3
+    3300014: Fillet4
+    3300016: Keyway2
+    3300018: Keyway2_2
+    3300020: Keyway2_3
+    3300022: Wrap1
+    4300000: Wrap1
+    4300002: Fillet3
+    4300004: Cut-Extrude4
+    4300006: Boss-Extrude3
+    4300008: Cut-Extrude4_2
+    4300010: Boss-Extrude3_2
+    4300012: Keyway2
+    4300014: Fillet4
+    4300016: Keyway2_2
+    4300018: Cut-Extrude5
+    4300020: Cut-Extrude1
+    4300022: Keyway2_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

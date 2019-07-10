@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 3175efdc9eb1b724fa974467ff561665
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boss-Extrude3
+    100004: Boss-Extrude5
+    100006: Capa 01
+    100008: Capa 02
+    100010: Capa 03
+    100012: Capa 04
+    100014: Capa 05
+    100016: Cut-Extrude1
+    100018: Cut-Extrude17
+    100020: Cut-Extrude19
+    100022: Cut-Extrude19_2
+    100024: Cut-Extrude3
+    100026: Cut-Extrude4
+    100028: Cut-Extrude4_2
+    100030: Fillet1
+    100032: Fillet1_10
+    100034: Fillet1_11
+    100036: Fillet1_2
+    100038: Fillet1_3
+    100040: Fillet1_4
+    100042: Fillet1_5
+    100044: Fillet1_6
+    100046: Fillet1_7
+    100048: Fillet1_8
+    100050: Fillet1_9
+    100052: Fillet4
+    100054: Fillet4_2
+    100056: Mirror4
+    100058: Predeterminada
+    100060: Stock-Inner rotating piece piece-1
+    100062: Stock-Inner rotating piece piece-1_2
+    400000: //RootNode
+    400002: Boss-Extrude3
+    400004: Boss-Extrude5
+    400006: Capa 01
+    400008: Capa 02
+    400010: Capa 03
+    400012: Capa 04
+    400014: Capa 05
+    400016: Cut-Extrude1
+    400018: Cut-Extrude17
+    400020: Cut-Extrude19
+    400022: Cut-Extrude19_2
+    400024: Cut-Extrude3
+    400026: Cut-Extrude4
+    400028: Cut-Extrude4_2
+    400030: Fillet1
+    400032: Fillet1_10
+    400034: Fillet1_11
+    400036: Fillet1_2
+    400038: Fillet1_3
+    400040: Fillet1_4
+    400042: Fillet1_5
+    400044: Fillet1_6
+    400046: Fillet1_7
+    400048: Fillet1_8
+    400050: Fillet1_9
+    400052: Fillet4
+    400054: Fillet4_2
+    400056: Mirror4
+    400058: Predeterminada
+    400060: Stock-Inner rotating piece piece-1
+    400062: Stock-Inner rotating piece piece-1_2
+    2100000: Material_1
+    2300000: Boss-Extrude3
+    2300002: Boss-Extrude5
+    2300004: Cut-Extrude1
+    2300006: Cut-Extrude17
+    2300008: Cut-Extrude19
+    2300010: Cut-Extrude19_2
+    2300012: Cut-Extrude3
+    2300014: Cut-Extrude4
+    2300016: Cut-Extrude4_2
+    2300018: Fillet1
+    2300020: Fillet1_10
+    2300022: Fillet1_11
+    2300024: Fillet1_2
+    2300026: Fillet1_3
+    2300028: Fillet1_4
+    2300030: Fillet1_5
+    2300032: Fillet1_6
+    2300034: Fillet1_7
+    2300036: Fillet1_8
+    2300038: Fillet1_9
+    2300040: Fillet4
+    2300042: Fillet4_2
+    2300044: Mirror4
+    2300046: Stock-Inner rotating piece piece-1
+    2300048: Stock-Inner rotating piece piece-1_2
+    3300000: Boss-Extrude3
+    3300002: Boss-Extrude5
+    3300004: Cut-Extrude1
+    3300006: Cut-Extrude17
+    3300008: Cut-Extrude19
+    3300010: Cut-Extrude19_2
+    3300012: Cut-Extrude3
+    3300014: Cut-Extrude4
+    3300016: Cut-Extrude4_2
+    3300018: Fillet1
+    3300020: Fillet1_10
+    3300022: Fillet1_11
+    3300024: Fillet1_2
+    3300026: Fillet1_3
+    3300028: Fillet1_4
+    3300030: Fillet1_5
+    3300032: Fillet1_6
+    3300034: Fillet1_7
+    3300036: Fillet1_8
+    3300038: Fillet1_9
+    3300040: Fillet4
+    3300042: Fillet4_2
+    3300044: Mirror4
+    3300046: Stock-Inner rotating piece piece-1
+    3300048: Stock-Inner rotating piece piece-1_2
+    4300000: Fillet1
+    4300002: Cut-Extrude19
+    4300004: Fillet1_2
+    4300006: Cut-Extrude3
+    4300008: Fillet4
+    4300010: Cut-Extrude17
+    4300012: Fillet1_3
+    4300014: Fillet1_4
+    4300016: Fillet1_5
+    4300018: Fillet1_6
+    4300020: Fillet1_7
+    4300022: Cut-Extrude1
+    4300024: Mirror4
+    4300026: Fillet1_8
+    4300028: Cut-Extrude4
+    4300030: Fillet4_2
+    4300032: Stock-Inner rotating piece piece-1
+    4300034: Boss-Extrude3
+    4300036: Fillet1_9
+    4300038: Cut-Extrude4_2
+    4300040: Stock-Inner rotating piece piece-1_2
+    4300042: Fillet1_10
+    4300044: Cut-Extrude19_2
+    4300046: Boss-Extrude5
+    4300048: Fillet1_11
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
