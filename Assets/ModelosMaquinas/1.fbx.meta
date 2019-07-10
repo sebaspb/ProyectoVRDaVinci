@@ -238,7 +238,12 @@ ModelImporter:
     4300082: Solid1_26
     4300084: Solid1_27
     4300086: Solid1_28
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: cae5f98fd100e1147855757063f9df6d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
