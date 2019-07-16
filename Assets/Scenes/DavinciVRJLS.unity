@@ -1560,7 +1560,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Sample text
+  m_text: "La virgen del clavel:\n\nPintura al \xF3lio del pintor renacentista datada
+    alrededor de 1470."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1629,12 +1630,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -0.37968948, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 395472302}
-    characterCount: 11
+    characterCount: 88
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 14
+    wordCount: 14
     linkCount: 0
-    lineCount: 1
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
@@ -1715,17 +1716,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 395472301}
-  m_LocalRotation: {x: 0.46630946, y: 0, z: 0, w: 0.8846217}
+  m_LocalRotation: {x: 0.5121178, y: 0, z: 0, w: 0.8589152}
   m_LocalPosition: {x: 0, y: 0, z: 164.113}
   m_LocalScale: {x: 0.03, y: 0.06, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 109
-  m_LocalEulerAnglesHint: {x: 55.59, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 61.61, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -39.48, y: 43.018}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: -39.48, y: 43.024}
+  m_SizeDelta: {x: 61.3, y: 18.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &401325248
 PrefabInstance:
@@ -3128,7 +3129,7 @@ PrefabInstance:
     - target: {fileID: 2934572042795811386, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -32.409004
+      value: -32.274
       objectReference: {fileID: 0}
     - target: {fileID: 2934572042795811386, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
         type: 3}
@@ -3179,6 +3180,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.75
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3242b4b302a9df4bba3c6ad2d8b3451, type: 3}
@@ -5058,7 +5069,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Sample text
+  m_text: "Madona Benois:\n\nPintura realizada en \xF3leo, pintada entre 1478 y 1482.\n "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5104,7 +5115,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 70
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -5127,12 +5138,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -0.37968948, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 886009993}
-    characterCount: 11
+    characterCount: 71
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 13
+    wordCount: 11
     linkCount: 0
-    lineCount: 1
+    lineCount: 5
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
@@ -5213,17 +5224,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 886009992}
-  m_LocalRotation: {x: 0, y: 0.8846217, z: -0.46630946, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 137.957}
+  m_LocalRotation: {x: 0, y: 0.86246955, z: -0.50610894, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 137.966}
   m_LocalScale: {x: 0.03, y: 0.06, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 107
-  m_LocalEulerAnglesHint: {x: 55.59, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 60.81, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -31.57, y: 43.018}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: -31.434994, y: 43.018}
+  m_SizeDelta: {x: 58.12, y: 19.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &886441263
 GameObject:
@@ -11755,6 +11766,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.87
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3242b4b302a9df4bba3c6ad2d8b3451, type: 3}
 --- !u!4 &1875638505 stripped
@@ -12828,7 +12849,7 @@ PrefabInstance:
     - target: {fileID: 5916426329503727994, guid: 36a732f6a6307974d9592bdaf1d1c406,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -39.55
+      value: -39.435
       objectReference: {fileID: 0}
     - target: {fileID: 5916426329503727994, guid: 36a732f6a6307974d9592bdaf1d1c406,
         type: 3}
@@ -12883,12 +12904,12 @@ PrefabInstance:
     - target: {fileID: 5916426329503727994, guid: 36a732f6a6307974d9592bdaf1d1c406,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.3
+      value: 0.16
       objectReference: {fileID: 0}
     - target: {fileID: 5916426329503727994, guid: 36a732f6a6307974d9592bdaf1d1c406,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.17
+      value: 0.21
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 36a732f6a6307974d9592bdaf1d1c406, type: 3}
