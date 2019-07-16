@@ -2236,6 +2236,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.57
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3242b4b302a9df4bba3c6ad2d8b3451, type: 3}
 --- !u!1001 &486753119
@@ -4685,7 +4695,10 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Sample text
+  m_text: "Ca\xF1\xF3n:\n\nEl ca\xF1\xF3n que aparece en el C\xF3dice Atl\xE1ntico
+    era cargado con un proyectil que en su interior conten\xEDa otros proyectiles
+    que a su vez conten\xEDan metralla, de forma que al dispararlo actuaba de forma
+    similar a las bombas en racimo."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4713,8 +4726,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 23
+  m_fontSizeBase: 23
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4754,12 +4767,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -0.37968948, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 883171907}
-    characterCount: 11
+    characterCount: 235
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 41
+    wordCount: 41
     linkCount: 0
-    lineCount: 1
+    lineCount: 7
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
@@ -4840,17 +4853,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883171906}
-  m_LocalRotation: {x: 0.3297306, y: 0.625522, z: -0.3297306, w: 0.625522}
-  m_LocalPosition: {x: 0, y: 0, z: 115.91}
+  m_LocalRotation: {x: 0.3558488, y: 0.6110414, z: -0.3558488, w: 0.6110414}
+  m_LocalPosition: {x: 0, y: 0, z: 115.9}
   m_LocalScale: {x: 0.03, y: 0.06, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 70
-  m_LocalEulerAnglesHint: {x: 55.59, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 60.43, y: 90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -33.142, y: 43.019}
-  m_SizeDelta: {x: 20, y: 5}
+  m_AnchoredPosition: {x: -33.152, y: 43.019}
+  m_SizeDelta: {x: 54.7, y: 18.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &886009992
 GameObject:
@@ -10096,6 +10109,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2934572043243095327, guid: c3242b4b302a9df4bba3c6ad2d8b3451,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.64
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3242b4b302a9df4bba3c6ad2d8b3451, type: 3}
 --- !u!1001 &1600501159
@@ -10728,7 +10751,13 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Sample text
+  m_text: "Barco de palas:\n \nEste barco est\xE1 dotado con un mecanismo de ruedas
+    con paletas, de unos 90 cm. de largo. Este mecanismo, al ser accionado con las
+    manos, pondr\xEDa en movimiento las paletas y lo har\xEDa navegar a velocidad
+    considerable\r\nSeg\xFAn sus c\xE1lculos, moviendo la rueda dentada (movida mediante
+    una manivela) cincuenta vueltas por minuto la embarcaci\xF3n avanzar\xEDa a la
+    velocidad de 50 millas por hora.\r\n Este  tipo de propulsi\xF3n encontrar\xEDa
+    aplicaci\xF3n s\xF3lo tres siglos despu\xE9s con la navegaci\xF3n a vapor."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10756,8 +10785,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -10797,12 +10826,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -0.37968948, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1797852701}
-    characterCount: 11
+    characterCount: 503
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 84
+    wordCount: 81
     linkCount: 0
-    lineCount: 1
+    lineCount: 10
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
@@ -11466,7 +11495,13 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Sample text
+  m_text: "Catapulta:\n\n\xC9sta m\xE1quina en particular utiliza un resorte de dos
+    hojas para producir una gran cantidad de energ\xEDa, que\r\nimpulsa proyectiles
+    de piedra o materiales incendiarios a grandes distancias en las\r\nguerras tan
+    frecuentes en aquellos tiempos. Una palanca act\xFAa sobre un eje con un\r\ntrinquete
+    que recoge una cuerda, doblando las hojas, y generando una gran tensi\xF3n en\r\nellas,
+    tensi\xF3n que se libera cuando se suelta la sujeci\xF3n del trinquete, levantando
+    el\r\nbrazo que sostiene el proyectil."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11494,8 +11529,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11535,12 +11570,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -0.37968948, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1882896273}
-    characterCount: 11
+    characterCount: 494
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 78
+    wordCount: 78
     linkCount: 0
-    lineCount: 1
+    lineCount: 10
     pageCount: 1
     materialCount: 1
   m_havePropertiesChanged: 0
@@ -11621,17 +11656,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1882896272}
-  m_LocalRotation: {x: 0.3297306, y: 0.625522, z: -0.3297306, w: 0.625522}
-  m_LocalPosition: {x: 0, y: 0, z: 109.68}
+  m_LocalRotation: {x: 0.35194895, y: 0.613296, z: -0.35194895, w: 0.613296}
+  m_LocalPosition: {x: 0, y: 0, z: 109.664}
   m_LocalScale: {x: 0.03, y: 0.06, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 71
-  m_LocalEulerAnglesHint: {x: 55.59, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 59.7, y: 90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -33.142, y: 43.019}
-  m_SizeDelta: {x: 20, y: 5}
+  m_SizeDelta: {x: 52.2, y: 17.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1891858048
 PrefabInstance:
