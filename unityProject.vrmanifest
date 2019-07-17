@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.proyectovr.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\SENA\\Documents\\ProyectoVRDaVinci\\actions.json",
+      "action_manifest_path": "C:\\Users\\Sena\\Documents\\ProyectoVRDaVinci\\actions.json",
       "strings": {
         "en_us": {
           "name": "proyectoVR [Testing]"
