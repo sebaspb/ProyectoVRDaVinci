@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA.unity"
+    guid: 8f4ef41ed8f048b4f956690f20d9b589
+  - enabled: 1
+    path: Assets/Scenes/DavinciVRJLS.unity
+    guid: 6553348bfb9dc814ab40c3cfeccb19fc
   m_configObjects: {}
