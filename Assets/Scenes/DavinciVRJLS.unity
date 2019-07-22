@@ -1241,6 +1241,16 @@ PrefabInstance:
       propertyPath: m_Range
       value: 4.78
       objectReference: {fileID: 0}
+    - target: {fileID: 5182947180636837879, guid: 6819db27b9781344b8705700e9ed1692,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5182947180636837879, guid: 6819db27b9781344b8705700e9ed1692,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5182947180899543675, guid: 6819db27b9781344b8705700e9ed1692,
         type: 3}
       propertyPath: m_Intensity
@@ -3390,7 +3400,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 0d90ebd382078af46abc3fb3dc32e3de, type: 3}
       propertyPath: m_Name
-      value: 16094_LeonardoDaVinci_new
+      value: EstatuaLeonardoDV
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0d90ebd382078af46abc3fb3dc32e3de, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8602,6 +8612,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 475244, guid: 7a135b1a2cb9c8f488d4dd00c55ab283, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11445746, guid: 7a135b1a2cb9c8f488d4dd00c55ab283, type: 3}
+      propertyPath: debugFloor
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
